@@ -20,7 +20,7 @@ Exercícios práticos
 
 🛠 Tecnologias
 
-Java (versão utilizada no curso)
+Java
 
 IDE: IntelliJ 
 
