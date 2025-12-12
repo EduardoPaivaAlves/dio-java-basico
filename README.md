@@ -1,4 +1,4 @@
-# dio-java-basico
+# exercícios-java-basico
 📚 Curso Básico de Java
 
 Este repositório contém os códigos, exercícios e anotações produzidos durante o Curso Básico de Java.
